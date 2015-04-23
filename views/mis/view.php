@@ -41,7 +41,7 @@ $this->params['breadcrumbs'][] = $this->title;
             'start_date',
             'end_date',
             'status',
-            'register_date',
+            'register_date:datetime',
 			//'field1',
             //'field2',
         ],
